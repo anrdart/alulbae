@@ -8,7 +8,6 @@ pur='\033[35;1m' #purple                                                        
 re='\033[31;1m' #red
 wh='\033[37;1m' #white
 ye='\033[33;1m' #yellow
-# Recode ajh mmnx
 echo
 echo                                                                                                                                                                             #ini paket untuk menjalankan tools                                                                                                                                               alulcyber.sh
 echo
