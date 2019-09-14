@@ -72,7 +72,9 @@ echo $cy "[6]"$pur" Trap Project"
 echo "=================================================="
 echo $cy "[7]"$bl" Hack Camera/CCTV"
 echo "=================================================="
-echo $cy "[8]"$re" EXIT"
+echo $cy "[8]"$pur" Metasploit"
+echo "=================================================="
+echo $cy "[9]"$re" EXIT"
 echo "=================================================="
 echo
 echo
@@ -140,6 +142,14 @@ bash saycheese.sh
 fi
 
 if [ $pil = 8 ]
+then
+clear
+apt update && apt upgrade -y
+pkg install unstable-repo
+pkg install metasploit
+fi
+
+if [ $pil = 9 ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
