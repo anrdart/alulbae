@@ -55,7 +55,7 @@ echo $gr "━━━━━━━━━━━━━━━━━━━━━━━�
 echo $gr  "AUTHOR   : HAIKAL AKHALUL AZHAR"
 echo $gr  "WA       : 082325100314"
 echo $gr  "IG       : @alulbuddyid"
-echo $gr  "TOOLS    : INSTALLER (7 TOOLS)"
+echo $gr  "TOOLS    : INSTALLER (8 TOOLS)"
 echo $gr "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
